@@ -13,7 +13,7 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 ## LIVE - DEMO 🌐
-Visit the 👉 [_LINK 🔗_]("https://ride-on-eight.vercel.app/owner")
+Visit the 👉 [_LINK 🔗_](https://ride-on-eight.vercel.app/owner)
 
 </div>
 
