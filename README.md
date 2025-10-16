@@ -13,7 +13,7 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 ## LIVE - DEMO 🌐
-Visit the 👉 [_LINK 🔗_]("LINK GOES HERE")
+Visit the 👉 [_LINK 🔗_]("https://ride-on-eight.vercel.app/owner")
 
 </div>
 
@@ -324,20 +324,29 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## 📞 Contact
-For any questions or support, please contact:
-- [**NIYIBIZI Elysée**](https://linktr.ee/niyibizi_elysee)👨🏿‍💻 | [Github](https://github.com/elyse502) | [Linkedin](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/) | [Twitter](https://twitter.com/Niyibizi_Elyse).
-- **Email**: <elyseniyibizi502@gmail.com>
+## 📞 Contact  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/) [![@phenrysay](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Niyibizi_Elyse) [![pH-7](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elyse502)
+For any questions or support, feel free to reach out:  
+
+- [**Ratnojit Saha**](https://www.linkedin.com/in/saharatnojit/) 👨‍💻  
+- 🌐 [GitHub](https://github.com/ratnojitsaha)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/saharatnojit/)  
+- ✉️ **Email:** [saharatnojit04@gmail.com](mailto:saharatnojit04@gmail.com)  
+- 🚀 [Project Link](https://github.com/ratnojitsaha)  
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saharatnojit/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ratnojitsaha)  
+[![Project](https://img.shields.io/badge/Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ratnojitsaha)
 
 ---
 
 <div align="center">
 
-**CAR-RENTAL** - Your journey starts here! 🛣️✨
+**RIDE-ON** - Your journey starts here! 🛣️✨
 
-**Made with ❤️ by <i>[Elysée NIYIBIZI](https://elyse502.github.io/Elysee-Portfolio/)</i>**
+**Made with ❤️ by <i>[RATNOJIT SAHA](https://github.com/ratnojitsaha)</i>**
 
 [⬆ Back to Top](#table-of-contents)
 
