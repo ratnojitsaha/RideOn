@@ -242,7 +242,7 @@ const AddCar = () => {
 
         <button className="flex items-center gap-2 px-4 py-2.5 mt-4 bg-primary text-white rounded-md font-medium w-max cursor-pointer">
           <img src={assets.tick_icon} alt="tick" />
-          {isLoading ? "Listing..." : "List Your Car"}
+          {isLoading ? "Listing..." : "List Your Vehicle"}
         </button>
       </form>
     </div>

@@ -72,7 +72,7 @@ const Cars = () => {
         className="flex flex-col items-center py-20 bg-light max-md:px-4"
       >
         <Title
-          title="Available Cars"
+          title="Available Vehicles"
           subTitle="Browse our selection of premium vehicles available for your next adventure"
         />
 
