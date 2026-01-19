@@ -9,7 +9,7 @@ const Testimonial = () => {
       location: "Methibari, Siliguri",
       image: assets.testimonial_image_1,
       testimonial:
-        "I've rente bikes from various rentals, but the experience with RideOn was exceptional.",
+        "I've rented bikes from various rentals, but the experience with RideOn was exceptional.",
     },
     {
       name: "Sayandip Roy",
