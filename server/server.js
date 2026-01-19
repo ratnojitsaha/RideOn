@@ -6,6 +6,8 @@ import ratelimit   from "express-rate-limit";
 import userRouter from "./routes/userRoutes.js";
 import ownerRouter from "./routes/ownerRoutes.js";
 import bookingRouter from "./routes/bookingRoutes.js";
+import healthRoutes from "./routes/healthRoutes.js";
+
 
 // Initialize Express App
 const app = express();
@@ -22,6 +24,10 @@ const limiter = ratelimit({
 app.use(cors());
 app.use(express.json());
 app.use("/api", limiter);
+
+//Health route for uptime robot
+app.use("/", healthRoutes);
+
 
 // Routes
 app.get("/", (req, res) => res.send("Server is running...🎆"));
