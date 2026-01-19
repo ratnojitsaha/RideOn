@@ -5,25 +5,25 @@ import { motion } from "motion/react";
 const Testimonial = () => {
   const testimonials = [
     {
-      name: "Emma Rodriguez",
-      location: "Barcelona, Spain",
+      name: "Rupanjana Ghosh",
+      location: "Methibari, Siliguri",
       image: assets.testimonial_image_1,
       testimonial:
-        "I've rente cars from various companies, but the experience with CarRental was exceptional.",
+        "I've rente bikes from various rentals, but the experience with RideOn was exceptional.",
     },
     {
-      name: "John Smith",
-      location: "New York, USA",
+      name: "Sayandip Roy",
+      location: "Bazar Road, Malbazar",
       image: assets.testimonial_image_2,
       testimonial:
-        "CarRental made my trip so much easier. The car was delivered right to my door, and the customer service was fantastic!",
+        "RideOn made my trip so much easier. The bike was delivered right to my door, and the customer service was fantastic!",
     },
     {
-      name: "Ava Johnson",
-      location: "Sydney, Australia",
+      name: "Priya Biswas",
+      location: "Ashighar, Siliguri",
       image: assets.testimonial_image_3,
       testimonial:
-        "I highly recommend CarRental! Their fleet is amazing, and I always feel like I'm getting the best deal with excellent service.",
+        "I highly recommend Rideon! Their fleet is amazing, and I always feel like I'm getting the best deal with excellent service.",
     },
   ];
 
